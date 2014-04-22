@@ -1,0 +1,22 @@
+{
+   "background": {
+      "scripts": [ "lib/jquery-1.7.min.js", "js/background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "js/eventListener.js" ],
+      "matches": [ "http://*/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_ext_description__",
+   "icons": {
+      "128": "img/PNG/128/leguide.png",
+      "48": "img/PNG/48/leguide.png",
+      "16": "img/PNG/16/leguide.png"
+   },
+   "manifest_version": 2,
+   "name": "__MSG_ext_name__",
+   "options_page": "options.html",
+   "permissions": [ "contextMenus", "http://*/*", "cookies", "contentSettings", "history", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.3"
+}

@@ -1,0 +1,65 @@
+{
+   "alt": {
+      "message": "Le texte alternatif"
+   },
+   "dimensions": {
+      "message": "Dimensions"
+   },
+   "error": {
+      "message": "Erreur"
+   },
+   "exif": {
+      "message": "EXIF"
+   },
+   "ext_description": {
+      "message": "Le partenaire passe la souris sur une image d'offre, nous lui proposons de voir l'image en 500x500 dans un carré qui s'affiche à côté"
+   },
+   "ext_name": {
+      "message": "LG Offre image"
+   },
+   "location": {
+      "message": "Lieu"
+   },
+   "options": {
+      "message": "Options"
+   },
+   "image_size": {
+      "message": "Image taille"
+   },
+   "popup_size": {
+      "message": "Popup taille"
+   },
+   "popup": {
+      "message": "Popup size"
+   },
+   "save": {
+      "message": "Enregistrer"
+   },
+   "saved": {
+      "message": "Enregistré"
+   },
+   "size": {
+      "message": "La taille du fichier"
+   },
+   "source": {
+      "message": "Source"
+   },
+   "source_large": {
+      "message": "URL de l'image"
+   },
+   "title": {
+      "message": "Propriétés de l'image"
+   },
+   "type": {
+      "message": "Type MIME"
+   },
+   "view": {
+      "message": "Voir les données"
+   },
+   "go": {
+      "message": "URL de l'offre"
+   },
+   "not_available": {
+      "message": "Non disponible"
+   }
+}

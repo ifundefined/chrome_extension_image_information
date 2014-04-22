@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Image Properties</title>
+  <link href="css/popup.css" rel="stylesheet" />
+</head>
+<body>
+<div id="properties">
+  <div id="preview"></div>
+  <div id="controls">
+    <div id="zoom">
+      <a class="reset">Reset</a>
+      <div><input type="range" min="10" max="190" step="10" value="100" /></div>
+    </div>
+  </div>
+  <div id="info">
+    <table></table>
+  </div>
+</div>
+<div id="overlay" class="hide">
+  <div id="exif" class="hide">
+    <h1>EXIF</h1>
+    <a class="close">Close</a>
+    <div></div>
+  </div>
+  <div id="data" class="hide">
+    <h1>Data URI</h1>
+    <a class="close">Close</a>
+    <div></div>
+  </div>
+</div>
+<script src="js/exif.js"></script>
+<script src="js/popup.js"></script>
+</body>

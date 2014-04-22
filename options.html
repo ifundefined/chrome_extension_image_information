@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Options</title>
+  <link href="css/options.css" rel="stylesheet" />
+</head>
+<body class="lg-offre-options">
+<h1 class='popup-options-title'>Image Properties Context Menu</h1>
+<section id="option-size" class="option option-size">
+  <h4 class="title">Image size</h4>
+  <div><input type="text" id="input-option-width" size="4" /> x <input type="text" id="input-option-height" size="4" /></div>
+</section>
+<section id="option-popup-size" class="option option-popup-size">
+  <h4 class="title">Popup size</h4>
+  <div><input type="text" id="input-option-popup-width" size="4" /> x <input type="text" id="input-option-popup-height" size="4" /></div>
+</section>
+<section id="option-partner-code" class="option partner-code option-partner-code">
+  <h4>Partner code</h4>
+  <div><input type="text" id="input-option-partnercode" size="4" /></div>
+</section>
+<section id="option-sb" class="option sb option-sb">
+  <h4>SB</h4>
+  <div><input type="text" id="input-option-sb" size="4" /></div>
+</section>
+<section id="show-img">
+  <h4>Options show image</h4>
+  <div>
+  		<form name=myform>
+			<input type="radio" name="myradio" value="1" id="myradio-hover"> <label for="myradio-hover">Hover</label>
+			<input type="radio" name="myradio" value="2" id="myradio-click"> <label for="myradio-click">Click</label>
+		</form>
+  </div>
+</section>
+<section id="save">
+  <button>Save</button>
+  <div id="info">Saved</div>
+</section>
+<script src="js/options.js"></script>
+</body>

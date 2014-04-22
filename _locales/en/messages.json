@@ -1,0 +1,65 @@
+{
+   "alt": {
+      "message": "Alt text"
+   },
+   "dimensions": {
+      "message": "Dimensions"
+   },
+   "error": {
+      "message": "Error"
+   },
+   "exif": {
+      "message": "EXIF"
+   },
+   "ext_description": {
+      "message": "A simple context menu extension to show the properties of an image."
+   },
+   "ext_name": {
+      "message": "Image Properties Context Menu"
+   },
+   "location": {
+      "message": "Location"
+   },
+   "options": {
+      "message": "Options"
+   },
+   "image_size": {
+      "message": "Image size"
+   },
+   "popup_size": {
+      "message": "Popup size"
+   },
+   "popup": {
+      "message": "Popup size"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "saved": {
+      "message": "Saved"
+   },
+   "size": {
+      "message": "File size"
+   },
+   "source": {
+      "message": "Source"
+   },
+   "source_large": {
+      "message": "URL image"
+   },
+   "title": {
+      "message": "Image Properties"
+   },
+   "type": {
+      "message": "MIME type"
+   },
+   "view": {
+      "message": "view data"
+   },
+   "go": {
+      "message": "URL of offrs"
+   },
+   "not_available": {
+      "message": "Not available"
+   }
+}
